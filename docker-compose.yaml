@@ -31,5 +31,5 @@ services:
 
 
 
-volume:
+volumes:
   dev-db-data:
